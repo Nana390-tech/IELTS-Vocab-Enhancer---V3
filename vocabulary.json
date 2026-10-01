@@ -1,0 +1,2891 @@
+{
+  "meta": {
+    "title": "IELTS Vocabulary Enhancer",
+    "level": "IELTS Band 6.0–6.5",
+    "sets": 20,
+    "words": 300,
+    "copyrightNote": "Definitions, examples, interface text, and activities are original. The attached workbook was used only as a broad topic reference."
+  },
+  "sets": [
+    {
+      "id": 1,
+      "title": "Academic Connections",
+      "arabic": "روابط أكاديمية",
+      "icon": "🔗",
+      "description": "Learn 15 useful words and phrases for academic connections.",
+      "words": [
+        {
+          "word": "furthermore",
+          "arabic": "علاوة على ذلك",
+          "definition": "adds another strong supporting point",
+          "collocations": [
+            "furthermore, the evidence shows"
+          ],
+          "example": "The class used “furthermore” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "moreover",
+          "arabic": "بالإضافة إلى ذلك",
+          "definition": "adds another important point",
+          "collocations": [
+            "moreover, it is clear"
+          ],
+          "example": "The class used “moreover” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "in addition",
+          "arabic": "بالإضافة إلى ذلك",
+          "definition": "adds extra information",
+          "collocations": [
+            "in addition to this"
+          ],
+          "example": "The class used “in addition” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "however",
+          "arabic": "ومع ذلك",
+          "definition": "introduces a contrasting idea",
+          "collocations": [
+            "however, this may change"
+          ],
+          "example": "The class used “however” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "nevertheless",
+          "arabic": "ومع ذلك",
+          "definition": "shows contrast despite the previous point",
+          "collocations": [
+            "nevertheless, the benefits remain"
+          ],
+          "example": "The class used “nevertheless” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "therefore",
+          "arabic": "لذلك",
+          "definition": "introduces a result or conclusion",
+          "collocations": [
+            "therefore, governments should"
+          ],
+          "example": "The class used “therefore” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "consequently",
+          "arabic": "وبناء على ذلك",
+          "definition": "shows what happened as a result",
+          "collocations": [
+            "consequently, the number fell"
+          ],
+          "example": "The class used “consequently” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "similarly",
+          "arabic": "وبالمثل",
+          "definition": "introduces a similar idea or result",
+          "collocations": [
+            "similarly, the second group"
+          ],
+          "example": "The class used “similarly” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "likewise",
+          "arabic": "على نحو مماثل",
+          "definition": "means in the same way",
+          "collocations": [
+            "likewise, students can"
+          ],
+          "example": "The class used “likewise” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "whereas",
+          "arabic": "في حين أن",
+          "definition": "connects two contrasting facts",
+          "collocations": [
+            "whereas the figure for"
+          ],
+          "example": "The class used “whereas” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "although",
+          "arabic": "على الرغم من أن",
+          "definition": "introduces an unexpected contrast",
+          "collocations": [
+            "although it is costly"
+          ],
+          "example": "The class used “although” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "for example",
+          "arabic": "على سبيل المثال",
+          "definition": "introduces an example",
+          "collocations": [
+            "for example, public transport"
+          ],
+          "example": "The class used “for example” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "in contrast",
+          "arabic": "على النقيض",
+          "definition": "introduces a clear difference",
+          "collocations": [
+            "in contrast to"
+          ],
+          "example": "The class used “in contrast” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "overall",
+          "arabic": "بشكل عام",
+          "definition": "introduces the main general picture",
+          "collocations": [
+            "overall, the trend was positive"
+          ],
+          "example": "The class used “overall” accurately in an IELTS-style discussion about academic connections."
+        },
+        {
+          "word": "in conclusion",
+          "arabic": "في الختام",
+          "definition": "introduces the final summary",
+          "collocations": [
+            "in conclusion, it can be argued"
+          ],
+          "example": "The class used “in conclusion” accurately in an IELTS-style discussion about academic connections."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Trends and Change",
+      "arabic": "الاتجاهات والتغيير",
+      "icon": "📈",
+      "description": "Learn 15 useful words and phrases for trends and change.",
+      "words": [
+        {
+          "word": "increase",
+          "arabic": "يزداد / زيادة",
+          "definition": "become or make greater",
+          "collocations": [
+            "a significant increase"
+          ],
+          "example": "The class used “increase” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "rise",
+          "arabic": "يرتفع / ارتفاع",
+          "definition": "move to a higher level",
+          "collocations": [
+            "a steady rise"
+          ],
+          "example": "The class used “rise” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "decrease",
+          "arabic": "ينخفض / انخفاض",
+          "definition": "become or make smaller",
+          "collocations": [
+            "a slight decrease"
+          ],
+          "example": "The class used “decrease” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "fall",
+          "arabic": "يهبط / انخفاض",
+          "definition": "move to a lower level",
+          "collocations": [
+            "a sharp fall"
+          ],
+          "example": "The class used “fall” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "decline",
+          "arabic": "يتراجع / تراجع",
+          "definition": "become gradually smaller or weaker",
+          "collocations": [
+            "a gradual decline"
+          ],
+          "example": "The class used “decline” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "grow",
+          "arabic": "ينمو",
+          "definition": "become larger over time",
+          "collocations": [
+            "grow rapidly"
+          ],
+          "example": "The class used “grow” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "expand",
+          "arabic": "يتوسع",
+          "definition": "become larger in size or range",
+          "collocations": [
+            "expand access"
+          ],
+          "example": "The class used “expand” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "reduce",
+          "arabic": "يقلل",
+          "definition": "make something smaller or less",
+          "collocations": [
+            "reduce costs"
+          ],
+          "example": "The class used “reduce” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "fluctuate",
+          "arabic": "يتذبذب",
+          "definition": "rise and fall irregularly",
+          "collocations": [
+            "fluctuate between"
+          ],
+          "example": "The class used “fluctuate” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "peak",
+          "arabic": "يبلغ الذروة",
+          "definition": "reach the highest point",
+          "collocations": [
+            "peak at"
+          ],
+          "example": "The class used “peak” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "remain stable",
+          "arabic": "يبقى مستقراً",
+          "definition": "stay at almost the same level",
+          "collocations": [
+            "remain relatively stable"
+          ],
+          "example": "The class used “remain stable” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "improve",
+          "arabic": "يتحسن",
+          "definition": "become better",
+          "collocations": [
+            "improve significantly"
+          ],
+          "example": "The class used “improve” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "develop",
+          "arabic": "يتطور",
+          "definition": "grow or change into a more advanced form",
+          "collocations": [
+            "develop gradually"
+          ],
+          "example": "The class used “develop” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "transform",
+          "arabic": "يحوّل",
+          "definition": "change completely",
+          "collocations": [
+            "transform into"
+          ],
+          "example": "The class used “transform” accurately in an IELTS-style discussion about trends and change."
+        },
+        {
+          "word": "shift",
+          "arabic": "يتحول",
+          "definition": "change position direction or focus",
+          "collocations": [
+            "a major shift"
+          ],
+          "example": "The class used “shift” accurately in an IELTS-style discussion about trends and change."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Cause and Result",
+      "arabic": "السبب والنتيجة",
+      "icon": "🧩",
+      "description": "Learn 15 useful words and phrases for cause and result.",
+      "words": [
+        {
+          "word": "cause",
+          "arabic": "يسبب / سبب",
+          "definition": "make something happen",
+          "collocations": [
+            "cause a problem"
+          ],
+          "example": "The class used “cause” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "result",
+          "arabic": "نتيجة",
+          "definition": "something that happens because of an action",
+          "collocations": [
+            "as a result"
+          ],
+          "example": "The class used “result” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "effect",
+          "arabic": "تأثير",
+          "definition": "a change produced by something",
+          "collocations": [
+            "have an effect on"
+          ],
+          "example": "The class used “effect” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "impact",
+          "arabic": "تأثير قوي",
+          "definition": "a strong effect on something",
+          "collocations": [
+            "have an impact on"
+          ],
+          "example": "The class used “impact” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "factor",
+          "arabic": "عامل",
+          "definition": "one of several things influencing a result",
+          "collocations": [
+            "a key factor"
+          ],
+          "example": "The class used “factor” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "reason",
+          "arabic": "سبب",
+          "definition": "an explanation for why something happens",
+          "collocations": [
+            "the main reason"
+          ],
+          "example": "The class used “reason” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "lead to",
+          "arabic": "يؤدي إلى",
+          "definition": "cause a particular result",
+          "collocations": [
+            "lead to an increase"
+          ],
+          "example": "The class used “lead to” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "result in",
+          "arabic": "يسفر عن",
+          "definition": "produce a particular outcome",
+          "collocations": [
+            "result in improved"
+          ],
+          "example": "The class used “result in” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "contribute",
+          "arabic": "يساهم",
+          "definition": "help to cause or develop something",
+          "collocations": [
+            "contribute to"
+          ],
+          "example": "The class used “contribute” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "trigger",
+          "arabic": "يحفّز / يسبب",
+          "definition": "cause an event or process to begin",
+          "collocations": [
+            "trigger a response"
+          ],
+          "example": "The class used “trigger” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "influence",
+          "arabic": "يؤثر",
+          "definition": "affect the way something develops",
+          "collocations": [
+            "influence behaviour"
+          ],
+          "example": "The class used “influence” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "because of",
+          "arabic": "بسبب",
+          "definition": "shows the reason for something",
+          "collocations": [
+            "because of high costs"
+          ],
+          "example": "The class used “because of” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "due to",
+          "arabic": "بسبب",
+          "definition": "caused by or resulting from",
+          "collocations": [
+            "due to demand"
+          ],
+          "example": "The class used “due to” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "consequence",
+          "arabic": "عاقبة / نتيجة",
+          "definition": "a result of an action or situation",
+          "collocations": [
+            "a direct consequence"
+          ],
+          "example": "The class used “consequence” accurately in an IELTS-style discussion about cause and result."
+        },
+        {
+          "word": "prevent",
+          "arabic": "يمنع",
+          "definition": "stop something from happening",
+          "collocations": [
+            "prevent a problem"
+          ],
+          "example": "The class used “prevent” accurately in an IELTS-style discussion about cause and result."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Comparing Ideas",
+      "arabic": "مقارنة الأفكار",
+      "icon": "⚖️",
+      "description": "Learn 15 useful words and phrases for comparing ideas.",
+      "words": [
+        {
+          "word": "compare",
+          "arabic": "يقارن",
+          "definition": "examine similarities and differences",
+          "collocations": [
+            "compare two groups"
+          ],
+          "example": "The class used “compare” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "contrast",
+          "arabic": "يقارن الاختلافات",
+          "definition": "show clear differences",
+          "collocations": [
+            "in sharp contrast"
+          ],
+          "example": "The class used “contrast” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "similar",
+          "arabic": "مشابه",
+          "definition": "almost the same",
+          "collocations": [
+            "similar to"
+          ],
+          "example": "The class used “similar” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "different",
+          "arabic": "مختلف",
+          "definition": "not the same",
+          "collocations": [
+            "different from"
+          ],
+          "example": "The class used “different” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "difference",
+          "arabic": "اختلاف",
+          "definition": "a way in which things are not the same",
+          "collocations": [
+            "a significant difference"
+          ],
+          "example": "The class used “difference” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "similarity",
+          "arabic": "تشابه",
+          "definition": "a way in which things are alike",
+          "collocations": [
+            "a close similarity"
+          ],
+          "example": "The class used “similarity” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "whereas",
+          "arabic": "في حين أن",
+          "definition": "shows a contrast between facts",
+          "collocations": [
+            "whereas the other group"
+          ],
+          "example": "The class used “whereas” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "while",
+          "arabic": "بينما",
+          "definition": "contrasts two facts in one sentence",
+          "collocations": [
+            "while the figure for"
+          ],
+          "example": "The class used “while” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "both",
+          "arabic": "كلاهما",
+          "definition": "refers to two things together",
+          "collocations": [
+            "both groups"
+          ],
+          "example": "The class used “both” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "compared with",
+          "arabic": "مقارنة بـ",
+          "definition": "used when examining two things",
+          "collocations": [
+            "compared with last year"
+          ],
+          "example": "The class used “compared with” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "higher than",
+          "arabic": "أعلى من",
+          "definition": "shows that one figure is greater",
+          "collocations": [
+            "slightly higher than"
+          ],
+          "example": "The class used “higher than” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "lower than",
+          "arabic": "أقل من",
+          "definition": "shows that one figure is smaller",
+          "collocations": [
+            "considerably lower than"
+          ],
+          "example": "The class used “lower than” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "respectively",
+          "arabic": "على التوالي",
+          "definition": "in the same order already mentioned",
+          "collocations": [
+            "respectively, 20 and 30"
+          ],
+          "example": "The class used “respectively” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "similar pattern",
+          "arabic": "نمط مشابه",
+          "definition": "a trend that develops in the same way",
+          "collocations": [
+            "follow a similar pattern"
+          ],
+          "example": "The class used “similar pattern” accurately in an IELTS-style discussion about comparing ideas."
+        },
+        {
+          "word": "outweigh",
+          "arabic": "يفوق",
+          "definition": "be more important than something else",
+          "collocations": [
+            "outweigh the disadvantages"
+          ],
+          "example": "The class used “outweigh” accurately in an IELTS-style discussion about comparing ideas."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Opinion and Argument",
+      "arabic": "الرأي والحجة",
+      "icon": "💬",
+      "description": "Learn 15 useful words and phrases for opinion and argument.",
+      "words": [
+        {
+          "word": "opinion",
+          "arabic": "رأي",
+          "definition": "a personal belief or judgement",
+          "collocations": [
+            "express an opinion"
+          ],
+          "example": "The class used “opinion” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "view",
+          "arabic": "وجهة نظر",
+          "definition": "a particular way of thinking",
+          "collocations": [
+            "hold the view"
+          ],
+          "example": "The class used “view” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "argument",
+          "arabic": "حجة",
+          "definition": "a reason supporting or opposing an idea",
+          "collocations": [
+            "a strong argument"
+          ],
+          "example": "The class used “argument” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "claim",
+          "arabic": "ادعاء",
+          "definition": "a statement that something is true",
+          "collocations": [
+            "make a claim"
+          ],
+          "example": "The class used “claim” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "believe",
+          "arabic": "يعتقد",
+          "definition": "accept that something is true",
+          "collocations": [
+            "strongly believe"
+          ],
+          "example": "The class used “believe” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "agree",
+          "arabic": "يوافق",
+          "definition": "have the same opinion",
+          "collocations": [
+            "completely agree"
+          ],
+          "example": "The class used “agree” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "disagree",
+          "arabic": "يختلف",
+          "definition": "have a different opinion",
+          "collocations": [
+            "strongly disagree"
+          ],
+          "example": "The class used “disagree” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "support",
+          "arabic": "يدعم",
+          "definition": "give reasons in favour of an idea",
+          "collocations": [
+            "support an argument"
+          ],
+          "example": "The class used “support” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "oppose",
+          "arabic": "يعارض",
+          "definition": "disagree with a plan or idea",
+          "collocations": [
+            "strongly oppose"
+          ],
+          "example": "The class used “oppose” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "justify",
+          "arabic": "يبرر",
+          "definition": "give a good reason for something",
+          "collocations": [
+            "justify a decision"
+          ],
+          "example": "The class used “justify” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "evidence",
+          "arabic": "دليل",
+          "definition": "facts or information showing something is true",
+          "collocations": [
+            "provide evidence"
+          ],
+          "example": "The class used “evidence” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "example",
+          "arabic": "مثال",
+          "definition": "a case used to explain an idea",
+          "collocations": [
+            "give an example"
+          ],
+          "example": "The class used “example” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "advantage",
+          "arabic": "ميزة",
+          "definition": "a positive feature or benefit",
+          "collocations": [
+            "a major advantage"
+          ],
+          "example": "The class used “advantage” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "disadvantage",
+          "arabic": "عيب",
+          "definition": "a negative feature or problem",
+          "collocations": [
+            "a serious disadvantage"
+          ],
+          "example": "The class used “disadvantage” accurately in an IELTS-style discussion about opinion and argument."
+        },
+        {
+          "word": "balanced",
+          "arabic": "متوازن",
+          "definition": "considering different sides fairly",
+          "collocations": [
+            "a balanced view"
+          ],
+          "example": "The class used “balanced” accurately in an IELTS-style discussion about opinion and argument."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Education",
+      "arabic": "التعليم",
+      "icon": "🎓",
+      "description": "Learn 15 useful words and phrases for education.",
+      "words": [
+        {
+          "word": "education",
+          "arabic": "تعليم",
+          "definition": "the process of teaching and learning",
+          "collocations": [
+            "higher education"
+          ],
+          "example": "The class used “education” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "curriculum",
+          "arabic": "منهج دراسي",
+          "definition": "subjects and content taught in a course",
+          "collocations": [
+            "school curriculum"
+          ],
+          "example": "The class used “curriculum” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "assessment",
+          "arabic": "تقييم",
+          "definition": "a task or process used to judge learning",
+          "collocations": [
+            "continuous assessment"
+          ],
+          "example": "The class used “assessment” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "qualification",
+          "arabic": "مؤهل",
+          "definition": "official proof of completed study or skill",
+          "collocations": [
+            "gain a qualification"
+          ],
+          "example": "The class used “qualification” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "course",
+          "arabic": "دورة / مقرر",
+          "definition": "a planned period of study",
+          "collocations": [
+            "complete a course"
+          ],
+          "example": "The class used “course” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "enrol",
+          "arabic": "يسجل",
+          "definition": "officially join a course",
+          "collocations": [
+            "enrol in a course"
+          ],
+          "example": "The class used “enrol” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "literacy",
+          "arabic": "معرفة القراءة والكتابة",
+          "definition": "the ability to read and write",
+          "collocations": [
+            "improve literacy"
+          ],
+          "example": "The class used “literacy” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "skill",
+          "arabic": "مهارة",
+          "definition": "an ability learned through practice",
+          "collocations": [
+            "practical skills"
+          ],
+          "example": "The class used “skill” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "knowledge",
+          "arabic": "معرفة",
+          "definition": "information and understanding gained through learning",
+          "collocations": [
+            "acquire knowledge"
+          ],
+          "example": "The class used “knowledge” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "achievement",
+          "arabic": "إنجاز",
+          "definition": "something successfully completed",
+          "collocations": [
+            "academic achievement"
+          ],
+          "example": "The class used “achievement” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "feedback",
+          "arabic": "تغذية راجعة",
+          "definition": "comments that help someone improve",
+          "collocations": [
+            "constructive feedback"
+          ],
+          "example": "The class used “feedback” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "revision",
+          "arabic": "مراجعة",
+          "definition": "study completed before a test",
+          "collocations": [
+            "do revision"
+          ],
+          "example": "The class used “revision” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "attendance",
+          "arabic": "حضور",
+          "definition": "being present at lessons or events",
+          "collocations": [
+            "regular attendance"
+          ],
+          "example": "The class used “attendance” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "graduate",
+          "arabic": "يتخرج / خريج",
+          "definition": "complete a university course",
+          "collocations": [
+            "graduate from university"
+          ],
+          "example": "The class used “graduate” accurately in an IELTS-style discussion about education."
+        },
+        {
+          "word": "tuition",
+          "arabic": "رسوم / تدريس",
+          "definition": "teaching or the cost of teaching",
+          "collocations": [
+            "tuition fees"
+          ],
+          "example": "The class used “tuition” accurately in an IELTS-style discussion about education."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Work and Careers",
+      "arabic": "العمل والمهن",
+      "icon": "💼",
+      "description": "Learn 15 useful words and phrases for work and careers.",
+      "words": [
+        {
+          "word": "career",
+          "arabic": "مسيرة مهنية",
+          "definition": "a person's working life over time",
+          "collocations": [
+            "career opportunities"
+          ],
+          "example": "The class used “career” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "job",
+          "arabic": "وظيفة",
+          "definition": "regular paid work",
+          "collocations": [
+            "apply for a job"
+          ],
+          "example": "The class used “job” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "employee",
+          "arabic": "موظف",
+          "definition": "a person who works for an organisation",
+          "collocations": [
+            "full-time employee"
+          ],
+          "example": "The class used “employee” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "employer",
+          "arabic": "صاحب عمل",
+          "definition": "a person or company providing work",
+          "collocations": [
+            "potential employer"
+          ],
+          "example": "The class used “employer” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "salary",
+          "arabic": "راتب",
+          "definition": "fixed money paid regularly for work",
+          "collocations": [
+            "annual salary"
+          ],
+          "example": "The class used “salary” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "experience",
+          "arabic": "خبرة",
+          "definition": "knowledge gained by doing work",
+          "collocations": [
+            "work experience"
+          ],
+          "example": "The class used “experience” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "skill",
+          "arabic": "مهارة",
+          "definition": "an ability needed to do a job",
+          "collocations": [
+            "communication skills"
+          ],
+          "example": "The class used “skill” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "candidate",
+          "arabic": "مرشح",
+          "definition": "a person applying for a position",
+          "collocations": [
+            "successful candidate"
+          ],
+          "example": "The class used “candidate” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "recruit",
+          "arabic": "يوظف",
+          "definition": "find and employ new workers",
+          "collocations": [
+            "recruit staff"
+          ],
+          "example": "The class used “recruit” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "promotion",
+          "arabic": "ترقية",
+          "definition": "a move to a higher position",
+          "collocations": [
+            "receive a promotion"
+          ],
+          "example": "The class used “promotion” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "workload",
+          "arabic": "عبء العمل",
+          "definition": "the amount of work a person has",
+          "collocations": [
+            "heavy workload"
+          ],
+          "example": "The class used “workload” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "colleague",
+          "arabic": "زميل",
+          "definition": "a person you work with",
+          "collocations": [
+            "supportive colleague"
+          ],
+          "example": "The class used “colleague” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "productivity",
+          "arabic": "إنتاجية",
+          "definition": "the amount of useful work produced",
+          "collocations": [
+            "increase productivity"
+          ],
+          "example": "The class used “productivity” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "flexible",
+          "arabic": "مرن",
+          "definition": "able to change according to need",
+          "collocations": [
+            "flexible working hours"
+          ],
+          "example": "The class used “flexible” accurately in an IELTS-style discussion about work and careers."
+        },
+        {
+          "word": "unemployment",
+          "arabic": "بطالة",
+          "definition": "the state of not having paid work",
+          "collocations": [
+            "reduce unemployment"
+          ],
+          "example": "The class used “unemployment” accurately in an IELTS-style discussion about work and careers."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Environment",
+      "arabic": "البيئة",
+      "icon": "🌿",
+      "description": "Learn 15 useful words and phrases for environment.",
+      "words": [
+        {
+          "word": "environment",
+          "arabic": "البيئة",
+          "definition": "the natural world around us",
+          "collocations": [
+            "protect the environment"
+          ],
+          "example": "The class used “environment” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "pollution",
+          "arabic": "تلوث",
+          "definition": "harmful substances damaging air water or land",
+          "collocations": [
+            "air pollution"
+          ],
+          "example": "The class used “pollution” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "recycle",
+          "arabic": "يعيد التدوير",
+          "definition": "process used materials so they can be used again",
+          "collocations": [
+            "recycle waste"
+          ],
+          "example": "The class used “recycle” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "waste",
+          "arabic": "نفايات",
+          "definition": "unwanted material that is thrown away",
+          "collocations": [
+            "reduce waste"
+          ],
+          "example": "The class used “waste” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "energy",
+          "arabic": "طاقة",
+          "definition": "power used for heat light or movement",
+          "collocations": [
+            "save energy"
+          ],
+          "example": "The class used “energy” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "renewable",
+          "arabic": "متجدد",
+          "definition": "naturally replaced and not used up",
+          "collocations": [
+            "renewable energy"
+          ],
+          "example": "The class used “renewable” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "emissions",
+          "arabic": "انبعاثات",
+          "definition": "gases released into the air",
+          "collocations": [
+            "carbon emissions"
+          ],
+          "example": "The class used “emissions” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "climate",
+          "arabic": "مناخ",
+          "definition": "usual weather conditions in a region",
+          "collocations": [
+            "climate change"
+          ],
+          "example": "The class used “climate” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "resource",
+          "arabic": "مورد",
+          "definition": "a useful supply such as water or fuel",
+          "collocations": [
+            "natural resources"
+          ],
+          "example": "The class used “resource” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "wildlife",
+          "arabic": "حياة برية",
+          "definition": "animals and plants living naturally",
+          "collocations": [
+            "protect wildlife"
+          ],
+          "example": "The class used “wildlife” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "habitat",
+          "arabic": "موطن طبيعي",
+          "definition": "the natural home of a plant or animal",
+          "collocations": [
+            "natural habitat"
+          ],
+          "example": "The class used “habitat” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "conservation",
+          "arabic": "حماية البيئة",
+          "definition": "protection of nature and resources",
+          "collocations": [
+            "conservation programme"
+          ],
+          "example": "The class used “conservation” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "sustainable",
+          "arabic": "مستدام",
+          "definition": "able to continue without harming future resources",
+          "collocations": [
+            "sustainable development"
+          ],
+          "example": "The class used “sustainable” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "ecosystem",
+          "arabic": "نظام بيئي",
+          "definition": "living things and their physical environment",
+          "collocations": [
+            "fragile ecosystem"
+          ],
+          "example": "The class used “ecosystem” accurately in an IELTS-style discussion about environment."
+        },
+        {
+          "word": "biodiversity",
+          "arabic": "تنوع حيوي",
+          "definition": "the variety of living things in an area",
+          "collocations": [
+            "protect biodiversity"
+          ],
+          "example": "The class used “biodiversity” accurately in an IELTS-style discussion about environment."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Science and Technology",
+      "arabic": "العلوم والتكنولوجيا",
+      "icon": "🔬",
+      "description": "Learn 15 useful words and phrases for science and technology.",
+      "words": [
+        {
+          "word": "technology",
+          "arabic": "تكنولوجيا",
+          "definition": "scientific knowledge used for practical purposes",
+          "collocations": [
+            "modern technology"
+          ],
+          "example": "The class used “technology” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "device",
+          "arabic": "جهاز",
+          "definition": "equipment made for a particular purpose",
+          "collocations": [
+            "digital device"
+          ],
+          "example": "The class used “device” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "innovation",
+          "arabic": "ابتكار",
+          "definition": "a useful new idea method or product",
+          "collocations": [
+            "technological innovation"
+          ],
+          "example": "The class used “innovation” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "research",
+          "arabic": "بحث",
+          "definition": "careful study to discover new information",
+          "collocations": [
+            "conduct research"
+          ],
+          "example": "The class used “research” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "discovery",
+          "arabic": "اكتشاف",
+          "definition": "something found for the first time",
+          "collocations": [
+            "scientific discovery"
+          ],
+          "example": "The class used “discovery” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "experiment",
+          "arabic": "تجربة",
+          "definition": "a test used to discover or prove something",
+          "collocations": [
+            "carry out an experiment"
+          ],
+          "example": "The class used “experiment” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "data",
+          "arabic": "بيانات",
+          "definition": "facts or information collected for study",
+          "collocations": [
+            "collect data"
+          ],
+          "example": "The class used “data” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "digital",
+          "arabic": "رقمي",
+          "definition": "using computer technology",
+          "collocations": [
+            "digital skills"
+          ],
+          "example": "The class used “digital” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "automate",
+          "arabic": "يؤتمت",
+          "definition": "use technology to perform a process automatically",
+          "collocations": [
+            "automate a process"
+          ],
+          "example": "The class used “automate” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "software",
+          "arabic": "برمجيات",
+          "definition": "programs used by a computer",
+          "collocations": [
+            "install software"
+          ],
+          "example": "The class used “software” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "access",
+          "arabic": "وصول",
+          "definition": "the ability to use or obtain something",
+          "collocations": [
+            "internet access"
+          ],
+          "example": "The class used “access” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "privacy",
+          "arabic": "خصوصية",
+          "definition": "the right to keep personal information protected",
+          "collocations": [
+            "protect privacy"
+          ],
+          "example": "The class used “privacy” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "reliable",
+          "arabic": "موثوق",
+          "definition": "working well and consistently",
+          "collocations": [
+            "reliable source"
+          ],
+          "example": "The class used “reliable” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "advance",
+          "arabic": "تقدم",
+          "definition": "an important improvement or development",
+          "collocations": [
+            "medical advances"
+          ],
+          "example": "The class used “advance” accurately in an IELTS-style discussion about science and technology."
+        },
+        {
+          "word": "online",
+          "arabic": "عبر الإنترنت",
+          "definition": "connected to or available through the internet",
+          "collocations": [
+            "online learning"
+          ],
+          "example": "The class used “online” accurately in an IELTS-style discussion about science and technology."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Health and Lifestyle",
+      "arabic": "الصحة ونمط الحياة",
+      "icon": "❤️",
+      "description": "Learn 15 useful words and phrases for health and lifestyle.",
+      "words": [
+        {
+          "word": "health",
+          "arabic": "صحة",
+          "definition": "the condition of the body and mind",
+          "collocations": [
+            "public health"
+          ],
+          "example": "The class used “health” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "healthy",
+          "arabic": "صحي",
+          "definition": "good for physical or mental condition",
+          "collocations": [
+            "healthy lifestyle"
+          ],
+          "example": "The class used “healthy” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "diet",
+          "arabic": "نظام غذائي",
+          "definition": "the food a person usually eats",
+          "collocations": [
+            "balanced diet"
+          ],
+          "example": "The class used “diet” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "exercise",
+          "arabic": "تمرين",
+          "definition": "physical activity that improves health",
+          "collocations": [
+            "regular exercise"
+          ],
+          "example": "The class used “exercise” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "nutrition",
+          "arabic": "تغذية",
+          "definition": "food and nutrients needed for health",
+          "collocations": [
+            "good nutrition"
+          ],
+          "example": "The class used “nutrition” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "stress",
+          "arabic": "ضغط نفسي",
+          "definition": "worry caused by difficult situations",
+          "collocations": [
+            "reduce stress"
+          ],
+          "example": "The class used “stress” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "illness",
+          "arabic": "مرض",
+          "definition": "a condition of poor health",
+          "collocations": [
+            "serious illness"
+          ],
+          "example": "The class used “illness” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "treatment",
+          "arabic": "علاج",
+          "definition": "medical care given to improve health",
+          "collocations": [
+            "medical treatment"
+          ],
+          "example": "The class used “treatment” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "prevent",
+          "arabic": "يمنع",
+          "definition": "stop something harmful from happening",
+          "collocations": [
+            "prevent disease"
+          ],
+          "example": "The class used “prevent” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "recover",
+          "arabic": "يتعافى",
+          "definition": "become healthy again",
+          "collocations": [
+            "recover from illness"
+          ],
+          "example": "The class used “recover” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "symptom",
+          "arabic": "عَرَض",
+          "definition": "a sign of an illness",
+          "collocations": [
+            "common symptom"
+          ],
+          "example": "The class used “symptom” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "mental health",
+          "arabic": "الصحة النفسية",
+          "definition": "emotional and psychological well-being",
+          "collocations": [
+            "support mental health"
+          ],
+          "example": "The class used “mental health” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "well-being",
+          "arabic": "عافية",
+          "definition": "the state of being healthy and comfortable",
+          "collocations": [
+            "improve well-being"
+          ],
+          "example": "The class used “well-being” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "active",
+          "arabic": "نشيط",
+          "definition": "doing regular physical movement",
+          "collocations": [
+            "active lifestyle"
+          ],
+          "example": "The class used “active” accurately in an IELTS-style discussion about health and lifestyle."
+        },
+        {
+          "word": "sedentary",
+          "arabic": "قليل الحركة",
+          "definition": "involving too much sitting",
+          "collocations": [
+            "sedentary lifestyle"
+          ],
+          "example": "The class used “sedentary” accurately in an IELTS-style discussion about health and lifestyle."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Cities and Transport",
+      "arabic": "المدن والنقل",
+      "icon": "🏙️",
+      "description": "Learn 15 useful words and phrases for cities and transport.",
+      "words": [
+        {
+          "word": "city",
+          "arabic": "مدينة",
+          "definition": "a large important town",
+          "collocations": [
+            "city centre"
+          ],
+          "example": "The class used “city” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "urban",
+          "arabic": "حضري",
+          "definition": "connected with towns and cities",
+          "collocations": [
+            "urban area"
+          ],
+          "example": "The class used “urban” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "rural",
+          "arabic": "ريفي",
+          "definition": "connected with the countryside",
+          "collocations": [
+            "rural community"
+          ],
+          "example": "The class used “rural” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "population",
+          "arabic": "سكان",
+          "definition": "all the people living in an area",
+          "collocations": [
+            "growing population"
+          ],
+          "example": "The class used “population” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "congestion",
+          "arabic": "ازدحام",
+          "definition": "too much traffic causing slow movement",
+          "collocations": [
+            "traffic congestion"
+          ],
+          "example": "The class used “congestion” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "transport",
+          "arabic": "نقل",
+          "definition": "systems used to move people or goods",
+          "collocations": [
+            "public transport"
+          ],
+          "example": "The class used “transport” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "commute",
+          "arabic": "يتنقل يومياً",
+          "definition": "travel regularly between home and work",
+          "collocations": [
+            "daily commute"
+          ],
+          "example": "The class used “commute” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "pedestrian",
+          "arabic": "مُشاة",
+          "definition": "a person travelling on foot",
+          "collocations": [
+            "pedestrian crossing"
+          ],
+          "example": "The class used “pedestrian” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "infrastructure",
+          "arabic": "بنية تحتية",
+          "definition": "basic systems needed for society to operate",
+          "collocations": [
+            "transport infrastructure"
+          ],
+          "example": "The class used “infrastructure” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "housing",
+          "arabic": "إسكان",
+          "definition": "homes considered as a group",
+          "collocations": [
+            "affordable housing"
+          ],
+          "example": "The class used “housing” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "facility",
+          "arabic": "مرفق",
+          "definition": "a building or service provided for a purpose",
+          "collocations": [
+            "public facilities"
+          ],
+          "example": "The class used “facility” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "resident",
+          "arabic": "مقيم",
+          "definition": "a person who lives in a place",
+          "collocations": [
+            "local resident"
+          ],
+          "example": "The class used “resident” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "suburb",
+          "arabic": "ضاحية",
+          "definition": "a residential area outside a city centre",
+          "collocations": [
+            "city suburb"
+          ],
+          "example": "The class used “suburb” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "accessible",
+          "arabic": "سهل الوصول",
+          "definition": "easy to reach or use",
+          "collocations": [
+            "easily accessible"
+          ],
+          "example": "The class used “accessible” accurately in an IELTS-style discussion about cities and transport."
+        },
+        {
+          "word": "urban sprawl",
+          "arabic": "تمدد عمراني",
+          "definition": "uncontrolled spread of a city",
+          "collocations": [
+            "limit urban sprawl"
+          ],
+          "example": "The class used “urban sprawl” accurately in an IELTS-style discussion about cities and transport."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Business and Money",
+      "arabic": "الأعمال والمال",
+      "icon": "💰",
+      "description": "Learn 15 useful words and phrases for business and money.",
+      "words": [
+        {
+          "word": "business",
+          "arabic": "عمل / تجارة",
+          "definition": "an organisation selling goods or services",
+          "collocations": [
+            "small business"
+          ],
+          "example": "The class used “business” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "company",
+          "arabic": "شركة",
+          "definition": "a commercial organisation",
+          "collocations": [
+            "international company"
+          ],
+          "example": "The class used “company” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "market",
+          "arabic": "سوق",
+          "definition": "activity of buying and selling",
+          "collocations": [
+            "global market"
+          ],
+          "example": "The class used “market” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "consumer",
+          "arabic": "مستهلك",
+          "definition": "a person who buys goods or services",
+          "collocations": [
+            "consumer demand"
+          ],
+          "example": "The class used “consumer” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "customer",
+          "arabic": "عميل",
+          "definition": "a person who buys from a business",
+          "collocations": [
+            "customer service"
+          ],
+          "example": "The class used “customer” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "profit",
+          "arabic": "ربح",
+          "definition": "money gained after costs are paid",
+          "collocations": [
+            "make a profit"
+          ],
+          "example": "The class used “profit” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "loss",
+          "arabic": "خسارة",
+          "definition": "money lost in business activity",
+          "collocations": [
+            "suffer a loss"
+          ],
+          "example": "The class used “loss” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "income",
+          "arabic": "دخل",
+          "definition": "money received regularly",
+          "collocations": [
+            "household income"
+          ],
+          "example": "The class used “income” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "expenditure",
+          "arabic": "إنفاق",
+          "definition": "money spent",
+          "collocations": [
+            "public expenditure"
+          ],
+          "example": "The class used “expenditure” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "budget",
+          "arabic": "ميزانية",
+          "definition": "a plan for spending money",
+          "collocations": [
+            "limited budget"
+          ],
+          "example": "The class used “budget” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "cost",
+          "arabic": "تكلفة",
+          "definition": "the amount needed to buy or do something",
+          "collocations": [
+            "reduce costs"
+          ],
+          "example": "The class used “cost” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "price",
+          "arabic": "سعر",
+          "definition": "the amount charged for something",
+          "collocations": [
+            "affordable price"
+          ],
+          "example": "The class used “price” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "invest",
+          "arabic": "يستثمر",
+          "definition": "put money or effort into future benefit",
+          "collocations": [
+            "invest in training"
+          ],
+          "example": "The class used “invest” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "revenue",
+          "arabic": "إيرادات",
+          "definition": "money received by a business or government",
+          "collocations": [
+            "generate revenue"
+          ],
+          "example": "The class used “revenue” accurately in an IELTS-style discussion about business and money."
+        },
+        {
+          "word": "inflation",
+          "arabic": "تضخم",
+          "definition": "a general rise in prices",
+          "collocations": [
+            "rate of inflation"
+          ],
+          "example": "The class used “inflation” accurately in an IELTS-style discussion about business and money."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Media and Communication",
+      "arabic": "الإعلام والتواصل",
+      "icon": "📰",
+      "description": "Learn 15 useful words and phrases for media and communication.",
+      "words": [
+        {
+          "word": "media",
+          "arabic": "إعلام",
+          "definition": "television radio newspapers and online news",
+          "collocations": [
+            "social media"
+          ],
+          "example": "The class used “media” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "news",
+          "arabic": "أخبار",
+          "definition": "information about recent events",
+          "collocations": [
+            "latest news"
+          ],
+          "example": "The class used “news” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "report",
+          "arabic": "تقرير",
+          "definition": "an organised account of information",
+          "collocations": [
+            "news report"
+          ],
+          "example": "The class used “report” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "article",
+          "arabic": "مقال",
+          "definition": "a piece of writing in a publication",
+          "collocations": [
+            "newspaper article"
+          ],
+          "example": "The class used “article” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "broadcast",
+          "arabic": "بث",
+          "definition": "a radio or television programme",
+          "collocations": [
+            "live broadcast"
+          ],
+          "example": "The class used “broadcast” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "journalist",
+          "arabic": "صحفي",
+          "definition": "a person who reports news",
+          "collocations": [
+            "professional journalist"
+          ],
+          "example": "The class used “journalist” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "coverage",
+          "arabic": "تغطية إعلامية",
+          "definition": "reporting of an event by the media",
+          "collocations": [
+            "media coverage"
+          ],
+          "example": "The class used “coverage” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "headline",
+          "arabic": "عنوان رئيسي",
+          "definition": "the title of a news report",
+          "collocations": [
+            "front-page headline"
+          ],
+          "example": "The class used “headline” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "audience",
+          "arabic": "جمهور",
+          "definition": "people who watch read or listen",
+          "collocations": [
+            "target audience"
+          ],
+          "example": "The class used “audience” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "advertisement",
+          "arabic": "إعلان",
+          "definition": "a message designed to sell something",
+          "collocations": [
+            "online advertisement"
+          ],
+          "example": "The class used “advertisement” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "source",
+          "arabic": "مصدر",
+          "definition": "a person or place providing information",
+          "collocations": [
+            "reliable source"
+          ],
+          "example": "The class used “source” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "communicate",
+          "arabic": "يتواصل",
+          "definition": "share information or ideas",
+          "collocations": [
+            "communicate effectively"
+          ],
+          "example": "The class used “communicate” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "information",
+          "arabic": "معلومات",
+          "definition": "facts or details about something",
+          "collocations": [
+            "accurate information"
+          ],
+          "example": "The class used “information” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "misinformation",
+          "arabic": "معلومات مضللة",
+          "definition": "false or inaccurate information",
+          "collocations": [
+            "spread misinformation"
+          ],
+          "example": "The class used “misinformation” accurately in an IELTS-style discussion about media and communication."
+        },
+        {
+          "word": "influence",
+          "arabic": "تأثير / يؤثر",
+          "definition": "power to affect opinions or behaviour",
+          "collocations": [
+            "media influence"
+          ],
+          "example": "The class used “influence” accurately in an IELTS-style discussion about media and communication."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Travel and Culture",
+      "arabic": "السفر والثقافة",
+      "icon": "✈️",
+      "description": "Learn 15 useful words and phrases for travel and culture.",
+      "words": [
+        {
+          "word": "travel",
+          "arabic": "سفر",
+          "definition": "movement from one place to another",
+          "collocations": [
+            "international travel"
+          ],
+          "example": "The class used “travel” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "tourism",
+          "arabic": "سياحة",
+          "definition": "the business and activity of visiting places",
+          "collocations": [
+            "mass tourism"
+          ],
+          "example": "The class used “tourism” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "tourist",
+          "arabic": "سائح",
+          "definition": "a person visiting a place for pleasure",
+          "collocations": [
+            "international tourist"
+          ],
+          "example": "The class used “tourist” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "destination",
+          "arabic": "وجهة",
+          "definition": "the place someone is travelling to",
+          "collocations": [
+            "popular destination"
+          ],
+          "example": "The class used “destination” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "journey",
+          "arabic": "رحلة",
+          "definition": "travel from one place to another",
+          "collocations": [
+            "long journey"
+          ],
+          "example": "The class used “journey” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "accommodation",
+          "arabic": "إقامة",
+          "definition": "a place to stay",
+          "collocations": [
+            "book accommodation"
+          ],
+          "example": "The class used “accommodation” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "transport",
+          "arabic": "وسيلة نقل",
+          "definition": "a way of moving people or goods",
+          "collocations": [
+            "local transport"
+          ],
+          "example": "The class used “transport” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "culture",
+          "arabic": "ثقافة",
+          "definition": "ideas customs and arts of a society",
+          "collocations": [
+            "local culture"
+          ],
+          "example": "The class used “culture” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "tradition",
+          "arabic": "تقليد",
+          "definition": "a custom passed through generations",
+          "collocations": [
+            "cultural tradition"
+          ],
+          "example": "The class used “tradition” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "heritage",
+          "arabic": "تراث",
+          "definition": "culture and buildings passed from the past",
+          "collocations": [
+            "cultural heritage"
+          ],
+          "example": "The class used “heritage” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "visitor",
+          "arabic": "زائر",
+          "definition": "a person who visits a place",
+          "collocations": [
+            "overseas visitor"
+          ],
+          "example": "The class used “visitor” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "experience",
+          "arabic": "تجربة",
+          "definition": "knowledge gained by doing something",
+          "collocations": [
+            "travel experience"
+          ],
+          "example": "The class used “experience” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "attraction",
+          "arabic": "مَعلم سياحي",
+          "definition": "a place that interests visitors",
+          "collocations": [
+            "tourist attraction"
+          ],
+          "example": "The class used “attraction” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "hospitality",
+          "arabic": "ضيافة",
+          "definition": "friendly treatment of guests",
+          "collocations": [
+            "hospitality industry"
+          ],
+          "example": "The class used “hospitality” accurately in an IELTS-style discussion about travel and culture."
+        },
+        {
+          "word": "culture shock",
+          "arabic": "صدمة ثقافية",
+          "definition": "confusion felt in an unfamiliar culture",
+          "collocations": [
+            "experience culture shock"
+          ],
+          "example": "The class used “culture shock” accurately in an IELTS-style discussion about travel and culture."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Crime and Law",
+      "arabic": "الجريمة والقانون",
+      "icon": "⚖️",
+      "description": "Learn 15 useful words and phrases for crime and law.",
+      "words": [
+        {
+          "word": "crime",
+          "arabic": "جريمة",
+          "definition": "an action that breaks the law",
+          "collocations": [
+            "commit a crime"
+          ],
+          "example": "The class used “crime” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "law",
+          "arabic": "قانون",
+          "definition": "official rules of a country",
+          "collocations": [
+            "obey the law"
+          ],
+          "example": "The class used “law” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "criminal",
+          "arabic": "مجرم",
+          "definition": "a person who commits a crime",
+          "collocations": [
+            "convicted criminal"
+          ],
+          "example": "The class used “criminal” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "police",
+          "arabic": "شرطة",
+          "definition": "public service responsible for preventing crime",
+          "collocations": [
+            "local police"
+          ],
+          "example": "The class used “police” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "court",
+          "arabic": "محكمة",
+          "definition": "a place where legal cases are decided",
+          "collocations": [
+            "appear in court"
+          ],
+          "example": "The class used “court” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "judge",
+          "arabic": "قاضٍ",
+          "definition": "a person who makes legal decisions",
+          "collocations": [
+            "court judge"
+          ],
+          "example": "The class used “judge” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "victim",
+          "arabic": "ضحية",
+          "definition": "a person harmed by a crime",
+          "collocations": [
+            "crime victim"
+          ],
+          "example": "The class used “victim” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "offender",
+          "arabic": "جانٍ / مخالف",
+          "definition": "a person who breaks the law",
+          "collocations": [
+            "repeat offender"
+          ],
+          "example": "The class used “offender” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "witness",
+          "arabic": "شاهد",
+          "definition": "a person who sees an event",
+          "collocations": [
+            "key witness"
+          ],
+          "example": "The class used “witness” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "evidence",
+          "arabic": "أدلة",
+          "definition": "facts used to prove something",
+          "collocations": [
+            "strong evidence"
+          ],
+          "example": "The class used “evidence” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "punishment",
+          "arabic": "عقوبة",
+          "definition": "a penalty for breaking a rule or law",
+          "collocations": [
+            "severe punishment"
+          ],
+          "example": "The class used “punishment” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "prison",
+          "arabic": "سجن",
+          "definition": "a place where offenders are kept",
+          "collocations": [
+            "sent to prison"
+          ],
+          "example": "The class used “prison” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "fine",
+          "arabic": "غرامة",
+          "definition": "money paid as a legal punishment",
+          "collocations": [
+            "pay a fine"
+          ],
+          "example": "The class used “fine” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "prevent",
+          "arabic": "يمنع",
+          "definition": "stop something from happening",
+          "collocations": [
+            "prevent crime"
+          ],
+          "example": "The class used “prevent” accurately in an IELTS-style discussion about crime and law."
+        },
+        {
+          "word": "security",
+          "arabic": "أمن",
+          "definition": "protection from danger or crime",
+          "collocations": [
+            "improve security"
+          ],
+          "example": "The class used “security” accurately in an IELTS-style discussion about crime and law."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Global Challenges",
+      "arabic": "التحديات العالمية",
+      "icon": "🌍",
+      "description": "Learn 15 useful words and phrases for global challenges.",
+      "words": [
+        {
+          "word": "poverty",
+          "arabic": "فقر",
+          "definition": "the condition of having very little money",
+          "collocations": [
+            "reduce poverty"
+          ],
+          "example": "The class used “poverty” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "hunger",
+          "arabic": "جوع",
+          "definition": "the need or lack of food",
+          "collocations": [
+            "world hunger"
+          ],
+          "example": "The class used “hunger” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "conflict",
+          "arabic": "نزاع",
+          "definition": "serious disagreement or fighting",
+          "collocations": [
+            "armed conflict"
+          ],
+          "example": "The class used “conflict” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "war",
+          "arabic": "حرب",
+          "definition": "organised fighting between countries or groups",
+          "collocations": [
+            "civil war"
+          ],
+          "example": "The class used “war” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "refugee",
+          "arabic": "لاجئ",
+          "definition": "a person forced to leave for safety",
+          "collocations": [
+            "refugee community"
+          ],
+          "example": "The class used “refugee” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "migration",
+          "arabic": "هجرة",
+          "definition": "movement of people to another area or country",
+          "collocations": [
+            "international migration"
+          ],
+          "example": "The class used “migration” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "population growth",
+          "arabic": "نمو سكاني",
+          "definition": "an increase in the number of people",
+          "collocations": [
+            "rapid population growth"
+          ],
+          "example": "The class used “population growth” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "inequality",
+          "arabic": "عدم مساواة",
+          "definition": "unfair difference in wealth or opportunity",
+          "collocations": [
+            "social inequality"
+          ],
+          "example": "The class used “inequality” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "unemployment",
+          "arabic": "بطالة",
+          "definition": "the state of having no paid work",
+          "collocations": [
+            "high unemployment"
+          ],
+          "example": "The class used “unemployment” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "food shortage",
+          "arabic": "نقص غذاء",
+          "definition": "a situation without enough food",
+          "collocations": [
+            "serious food shortage"
+          ],
+          "example": "The class used “food shortage” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "water shortage",
+          "arabic": "نقص مياه",
+          "definition": "a situation without enough water",
+          "collocations": [
+            "water shortage"
+          ],
+          "example": "The class used “water shortage” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "drought",
+          "arabic": "جفاف",
+          "definition": "a long period with little rain",
+          "collocations": [
+            "severe drought"
+          ],
+          "example": "The class used “drought” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "disaster",
+          "arabic": "كارثة",
+          "definition": "an event causing great damage or suffering",
+          "collocations": [
+            "natural disaster"
+          ],
+          "example": "The class used “disaster” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "aid",
+          "arabic": "مساعدات",
+          "definition": "help provided to people in need",
+          "collocations": [
+            "international aid"
+          ],
+          "example": "The class used “aid” accurately in an IELTS-style discussion about global challenges."
+        },
+        {
+          "word": "solution",
+          "arabic": "حل",
+          "definition": "a way of solving a problem",
+          "collocations": [
+            "practical solution"
+          ],
+          "example": "The class used “solution” accurately in an IELTS-style discussion about global challenges."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Food and Diet",
+      "arabic": "الغذاء والنظام الغذائي",
+      "icon": "🥗",
+      "description": "Learn 15 useful words and phrases for food and diet.",
+      "words": [
+        {
+          "word": "food",
+          "arabic": "غذاء",
+          "definition": "things people eat",
+          "collocations": [
+            "healthy food"
+          ],
+          "example": "The class used “food” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "diet",
+          "arabic": "نظام غذائي",
+          "definition": "the food a person usually eats",
+          "collocations": [
+            "balanced diet"
+          ],
+          "example": "The class used “diet” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "meal",
+          "arabic": "وجبة",
+          "definition": "food eaten at a particular time",
+          "collocations": [
+            "healthy meal"
+          ],
+          "example": "The class used “meal” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "nutrition",
+          "arabic": "تغذية",
+          "definition": "the process of getting needed nutrients",
+          "collocations": [
+            "good nutrition"
+          ],
+          "example": "The class used “nutrition” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "nutritious",
+          "arabic": "مغذٍ",
+          "definition": "containing substances needed for health",
+          "collocations": [
+            "nutritious food"
+          ],
+          "example": "The class used “nutritious” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "protein",
+          "arabic": "بروتين",
+          "definition": "a nutrient needed for growth and repair",
+          "collocations": [
+            "source of protein"
+          ],
+          "example": "The class used “protein” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "vitamin",
+          "arabic": "فيتامين",
+          "definition": "a substance needed for health",
+          "collocations": [
+            "essential vitamins"
+          ],
+          "example": "The class used “vitamin” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "fibre",
+          "arabic": "ألياف",
+          "definition": "plant material supporting digestion",
+          "collocations": [
+            "dietary fibre"
+          ],
+          "example": "The class used “fibre” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "fresh",
+          "arabic": "طازج",
+          "definition": "recently produced or prepared",
+          "collocations": [
+            "fresh vegetables"
+          ],
+          "example": "The class used “fresh” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "processed",
+          "arabic": "مصنّع",
+          "definition": "changed from its natural state",
+          "collocations": [
+            "processed food"
+          ],
+          "example": "The class used “processed” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "consume",
+          "arabic": "يستهلك",
+          "definition": "eat drink or use",
+          "collocations": [
+            "consume less sugar"
+          ],
+          "example": "The class used “consume” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "portion",
+          "arabic": "حصة",
+          "definition": "an amount of food for one person",
+          "collocations": [
+            "portion size"
+          ],
+          "example": "The class used “portion” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "obesity",
+          "arabic": "سمنة",
+          "definition": "the condition of having too much body fat",
+          "collocations": [
+            "childhood obesity"
+          ],
+          "example": "The class used “obesity” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "allergy",
+          "arabic": "حساسية",
+          "definition": "a harmful reaction to a substance",
+          "collocations": [
+            "food allergy"
+          ],
+          "example": "The class used “allergy” accurately in an IELTS-style discussion about food and diet."
+        },
+        {
+          "word": "agriculture",
+          "arabic": "زراعة",
+          "definition": "the practice of farming",
+          "collocations": [
+            "modern agriculture"
+          ],
+          "example": "The class used “agriculture” accurately in an IELTS-style discussion about food and diet."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Nature and Geography",
+      "arabic": "الطبيعة والجغرافيا",
+      "icon": "🏔️",
+      "description": "Learn 15 useful words and phrases for nature and geography.",
+      "words": [
+        {
+          "word": "geography",
+          "arabic": "جغرافيا",
+          "definition": "the study of places and the earth",
+          "collocations": [
+            "physical geography"
+          ],
+          "example": "The class used “geography” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "region",
+          "arabic": "منطقة",
+          "definition": "a particular area of a country or world",
+          "collocations": [
+            "coastal region"
+          ],
+          "example": "The class used “region” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "climate",
+          "arabic": "مناخ",
+          "definition": "usual weather conditions of a place",
+          "collocations": [
+            "hot climate"
+          ],
+          "example": "The class used “climate” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "landscape",
+          "arabic": "منظر طبيعي",
+          "definition": "the visible features of an area",
+          "collocations": [
+            "rural landscape"
+          ],
+          "example": "The class used “landscape” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "coast",
+          "arabic": "ساحل",
+          "definition": "land beside the sea",
+          "collocations": [
+            "coastal area"
+          ],
+          "example": "The class used “coast” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "river",
+          "arabic": "نهر",
+          "definition": "a natural flow of water",
+          "collocations": [
+            "major river"
+          ],
+          "example": "The class used “river” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "mountain",
+          "arabic": "جبل",
+          "definition": "very high land with steep sides",
+          "collocations": [
+            "mountain range"
+          ],
+          "example": "The class used “mountain” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "valley",
+          "arabic": "وادٍ",
+          "definition": "low land between hills or mountains",
+          "collocations": [
+            "river valley"
+          ],
+          "example": "The class used “valley” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "forest",
+          "arabic": "غابة",
+          "definition": "a large area covered with trees",
+          "collocations": [
+            "tropical forest"
+          ],
+          "example": "The class used “forest” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "soil",
+          "arabic": "تربة",
+          "definition": "the upper layer of earth where plants grow",
+          "collocations": [
+            "fertile soil"
+          ],
+          "example": "The class used “soil” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "fertile",
+          "arabic": "خصب",
+          "definition": "good for growing crops",
+          "collocations": [
+            "fertile land"
+          ],
+          "example": "The class used “fertile” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "agriculture",
+          "arabic": "زراعة",
+          "definition": "farming of crops and animals",
+          "collocations": [
+            "agricultural land"
+          ],
+          "example": "The class used “agriculture” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "irrigation",
+          "arabic": "ري",
+          "definition": "supplying water to crops",
+          "collocations": [
+            "irrigation system"
+          ],
+          "example": "The class used “irrigation” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "erosion",
+          "arabic": "تعرية",
+          "definition": "gradual wearing away of soil or rock",
+          "collocations": [
+            "soil erosion"
+          ],
+          "example": "The class used “erosion” accurately in an IELTS-style discussion about nature and geography."
+        },
+        {
+          "word": "natural resource",
+          "arabic": "مورد طبيعي",
+          "definition": "a useful material found in nature",
+          "collocations": [
+            "protect natural resources"
+          ],
+          "example": "The class used “natural resource” accurately in an IELTS-style discussion about nature and geography."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Data and Research",
+      "arabic": "البيانات والبحث",
+      "icon": "📊",
+      "description": "Learn 15 useful words and phrases for data and research.",
+      "words": [
+        {
+          "word": "research",
+          "arabic": "بحث",
+          "definition": "careful study to discover information",
+          "collocations": [
+            "conduct research"
+          ],
+          "example": "The class used “research” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "study",
+          "arabic": "دراسة",
+          "definition": "a detailed investigation of a subject",
+          "collocations": [
+            "recent study"
+          ],
+          "example": "The class used “study” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "data",
+          "arabic": "بيانات",
+          "definition": "facts or information collected for analysis",
+          "collocations": [
+            "collect data"
+          ],
+          "example": "The class used “data” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "survey",
+          "arabic": "استبيان",
+          "definition": "questions used to collect information",
+          "collocations": [
+            "conduct a survey"
+          ],
+          "example": "The class used “survey” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "sample",
+          "arabic": "عينة",
+          "definition": "a smaller group representing a larger one",
+          "collocations": [
+            "representative sample"
+          ],
+          "example": "The class used “sample” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "result",
+          "arabic": "نتيجة",
+          "definition": "the outcome of research or an action",
+          "collocations": [
+            "research result"
+          ],
+          "example": "The class used “result” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "finding",
+          "arabic": "نتيجة بحث",
+          "definition": "information discovered through research",
+          "collocations": [
+            "key finding"
+          ],
+          "example": "The class used “finding” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "evidence",
+          "arabic": "دليل",
+          "definition": "facts supporting a conclusion",
+          "collocations": [
+            "strong evidence"
+          ],
+          "example": "The class used “evidence” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "method",
+          "arabic": "طريقة",
+          "definition": "a particular way of doing something",
+          "collocations": [
+            "research method"
+          ],
+          "example": "The class used “method” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "analyse",
+          "arabic": "يحلل",
+          "definition": "study information carefully",
+          "collocations": [
+            "analyse data"
+          ],
+          "example": "The class used “analyse” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "compare",
+          "arabic": "يقارن",
+          "definition": "examine similarities and differences",
+          "collocations": [
+            "compare results"
+          ],
+          "example": "The class used “compare” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "measure",
+          "arabic": "يقيس",
+          "definition": "find the size amount or level",
+          "collocations": [
+            "measure progress"
+          ],
+          "example": "The class used “measure” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "percentage",
+          "arabic": "نسبة مئوية",
+          "definition": "an amount out of one hundred",
+          "collocations": [
+            "high percentage"
+          ],
+          "example": "The class used “percentage” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "average",
+          "arabic": "متوسط",
+          "definition": "a typical value calculated from several numbers",
+          "collocations": [
+            "average score"
+          ],
+          "example": "The class used “average” accurately in an IELTS-style discussion about data and research."
+        },
+        {
+          "word": "significant",
+          "arabic": "ملحوظ / مهم",
+          "definition": "important or large enough to be noticed",
+          "collocations": [
+            "significant difference"
+          ],
+          "example": "The class used “significant” accurately in an IELTS-style discussion about data and research."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Speaking and Interaction",
+      "arabic": "التحدث والتفاعل",
+      "icon": "🗣️",
+      "description": "Learn 15 useful words and phrases for speaking and interaction.",
+      "words": [
+        {
+          "word": "communicate",
+          "arabic": "يتواصل",
+          "definition": "share information or ideas",
+          "collocations": [
+            "communicate clearly"
+          ],
+          "example": "The class used “communicate” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "conversation",
+          "arabic": "محادثة",
+          "definition": "informal talk between people",
+          "collocations": [
+            "have a conversation"
+          ],
+          "example": "The class used “conversation” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "discuss",
+          "arabic": "يناقش",
+          "definition": "talk about a subject in detail",
+          "collocations": [
+            "discuss an issue"
+          ],
+          "example": "The class used “discuss” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "explain",
+          "arabic": "يشرح",
+          "definition": "make an idea clear",
+          "collocations": [
+            "explain clearly"
+          ],
+          "example": "The class used “explain” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "describe",
+          "arabic": "يصف",
+          "definition": "say what something is like",
+          "collocations": [
+            "describe an experience"
+          ],
+          "example": "The class used “describe” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "respond",
+          "arabic": "يرد",
+          "definition": "answer or react",
+          "collocations": [
+            "respond to a question"
+          ],
+          "example": "The class used “respond” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "clarify",
+          "arabic": "يوضح",
+          "definition": "make something easier to understand",
+          "collocations": [
+            "clarify a point"
+          ],
+          "example": "The class used “clarify” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "opinion",
+          "arabic": "رأي",
+          "definition": "a personal belief or judgement",
+          "collocations": [
+            "express an opinion"
+          ],
+          "example": "The class used “opinion” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "agree",
+          "arabic": "يوافق",
+          "definition": "have the same opinion",
+          "collocations": [
+            "completely agree"
+          ],
+          "example": "The class used “agree” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "disagree",
+          "arabic": "يختلف",
+          "definition": "have a different opinion",
+          "collocations": [
+            "politely disagree"
+          ],
+          "example": "The class used “disagree” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "interrupt",
+          "arabic": "يقاطع",
+          "definition": "speak while another person is speaking",
+          "collocations": [
+            "sorry to interrupt"
+          ],
+          "example": "The class used “interrupt” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "summarise",
+          "arabic": "يلخص",
+          "definition": "give the main points briefly",
+          "collocations": [
+            "briefly summarise"
+          ],
+          "example": "The class used “summarise” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "example",
+          "arabic": "مثال",
+          "definition": "a case used to explain an idea",
+          "collocations": [
+            "give an example"
+          ],
+          "example": "The class used “example” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "confident",
+          "arabic": "واثق",
+          "definition": "sure of your ability",
+          "collocations": [
+            "feel confident"
+          ],
+          "example": "The class used “confident” accurately in an IELTS-style discussion about speaking and interaction."
+        },
+        {
+          "word": "fluency",
+          "arabic": "طلاقة",
+          "definition": "ability to speak smoothly and easily",
+          "collocations": [
+            "improve fluency"
+          ],
+          "example": "The class used “fluency” accurately in an IELTS-style discussion about speaking and interaction."
+        }
+      ]
+    }
+  ]
+}
